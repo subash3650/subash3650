@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subash3650
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning Kotlin, Java, Server Side Programming, Data Structures and Algorithm , SQL and NO SQL.
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning MongoDB, Express,React,Node,Java, Server Side Programming, Data Structures and Algorithm , SQL and NO SQL.
 - 💞️ I’m looking to collaborate on open Source.
 - 📫 How to reach me @www.linkedin.com/in/subash365
 -     Do or Die.
