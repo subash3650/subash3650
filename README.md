@@ -39,26 +39,23 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Subash's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=subash3650&show_icons=true&theme=radical" alt="Subash's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subash3650&theme=radical" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subash3650&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
 ### 🌐 Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/subash365" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:YOUR-EMAIL">
+  <a href="mailto:subashprasanna66@gmail.com">
     <img src="https://img.shields.io/badge/-Email-c14438?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://twitter.com/YOUR-TWITTER-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
