@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Subash</h1>
-<h3 align="center">A passionate Full Stack Developer and Engineering Student</h3>
-
+<h1 align="center">Hi 👋, I'm Subash</h1
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=Full+Stack+Developer" />
 </p>
