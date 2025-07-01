@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=Full+Stack+Developer" />
 </p>
 
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/subash365/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
@@ -15,7 +13,6 @@
   </a>
 </p>
 
----
 
 <h3 align="center">💻 Languages & Frameworks</h3>
 <p align="center">
@@ -31,8 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL"/>
 </p>
 
----
-
 <h3 align="center">🛠️ Tools & IDEs</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code"/>
@@ -42,15 +37,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker"/>
 </p>
 
----
-
 <h3 align="center">🖥️ Operating Systems</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="45" alt="Windows"/>
 </p>
-
----
 
 <h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
@@ -62,8 +53,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=subash3650&theme=radical&hide_border=true&border_radius=12" height="180"/>
 </p>
 
----
-
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/subash365/" target="_blank">
@@ -73,7 +62,5 @@
     <img src="https://img.shields.io/badge/-Email-c14438?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
-
----
 
 ⭐️ From [Subash](https://github.com/subash3650)
